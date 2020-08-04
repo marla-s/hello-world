@@ -1,7 +1,7 @@
 # hello-world
-Projects I'm working on
+Projects
 
-The Arsenal
+Allay
 
 ODU Rate My Region
 
